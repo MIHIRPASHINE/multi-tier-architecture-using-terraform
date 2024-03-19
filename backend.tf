@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "three-tier-architecture-bucket"
+    bucket = "terraform-project-3-tier-architecture"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
