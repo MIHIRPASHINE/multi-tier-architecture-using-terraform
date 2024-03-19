@@ -3,6 +3,6 @@ terraform {
     bucket = "terraform-project-3-tier-architecture"
     key    = "terraform.tfstate"
     region = "us-east-1"
-    dynamodb_table = "remote-backend"
+    dynamodb_table = "dynamo-table-terraform"
   }
 }
