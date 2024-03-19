@@ -1,2 +1,2 @@
-db-username = "mathesh"
-db-password = "mathesh123456789"
+db-username = "admin"
+db-password = "admin123"
