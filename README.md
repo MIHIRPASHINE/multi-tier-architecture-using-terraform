@@ -25,6 +25,7 @@ Before you get started, make sure you have the following prerequisites in place:
 - [Terraform](https://www.terraform.io/) installed.
 - AWS IAM credentials configured.
 - Git for cloning the repository.
+- S3 bucket with name "terraform-project-3-tier-architecture" to store "terraform.tfstate" file remotely.
 
 ## 📋 Table of Contents
 
