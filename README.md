@@ -26,6 +26,7 @@ Before you get started, make sure you have the following prerequisites in place:
 - AWS IAM credentials configured.
 - Git for cloning the repository.
 - S3 bucket with name "terraform-project-3-tier-architecture" to store "terraform.tfstate" file remotely.
+- Dynamo-DB table with name "dynamo-table-terraform" and Partition key named "LockID".
 
 ## 📋 Table of Contents
 
